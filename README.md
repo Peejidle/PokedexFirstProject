@@ -27,3 +27,9 @@ go run pokedex.go
 When adding a Pokemon, enter values in this order:
 Name Type Health Defense SpAttack SpDefense Speed
 
+## Example
+Add
+Enter/Change in this order: Name, Type, Health, Defense, SpAttack, SpDefense, Speed:
+Bulbasaur Grass 45 49 65 65 45
+
+
