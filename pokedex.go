@@ -45,6 +45,8 @@ func main() {
 			save(pokemon)
 		case "exit", "close":
 			os.Exit(0)
+		default:
+			fmt.Println("Invalid option, try again")
 		}
 	}
 }
